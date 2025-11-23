@@ -1,0 +1,5 @@
+{
+  "name": "MarketPulse AI",
+  "description": "Real-time financial dashboard tracking Stocks, Crypto, and News, powered by Gemini AI for intelligent market analysis and summaries.",
+  "requestFramePermissions": []
+}
